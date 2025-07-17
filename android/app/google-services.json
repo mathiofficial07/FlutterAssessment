@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "905448456017",
+    "project_id": "crud-f17ce",
+    "storage_bucket": "crud-f17ce.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905448456017:android:874a6037d8f8ca74021d70",
+        "android_client_info": {
+          "package_name": "com.example.lottieanimation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmEj90ME6P66nAHpRH2uJ8VcGbkR4kwoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
